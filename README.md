@@ -1,5 +1,28 @@
 ## Hi there 👋
 
+## Fields of Interest
+
+### Programming Paradigms
+* Clean Architecture
+* Clean Code
+* TDD
+* Refactoring
+* Future of Programming
+* Programming Ethics
+
+### Technical Skills
+* Java
+* Processing
+* GoF
+
+### Creative Technology
+* Computational Geometry
+* Visual Computing
+* Generative Art
+
+### Methodologies
+* Agile Manifesto
+
 ### Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="64" height="64" />
